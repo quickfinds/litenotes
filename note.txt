@@ -1,0 +1,2 @@
+this is note file .
+I have created this first laravel prject when i was learning the laravel course online.. 
