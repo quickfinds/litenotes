@@ -1,0 +1,2 @@
+This is note file for related to project.
+This is my first laravel litenotes proejct created from scratch during learning laravel course.
