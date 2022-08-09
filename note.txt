@@ -1,2 +1,3 @@
-this is note file .
+This is note file .
 I have created this first laravel prject when i was learning the laravel course online.. 
+I will update more changes also..
